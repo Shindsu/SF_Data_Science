@@ -1,6 +1,6 @@
 # My Data Science projects
 
-From the <a href="https://skillfactory.ru/data-scientist" target="_new">SkillFactory Data Science course</a>.
+From the __[SkillFactory Data Science course](https://skillfactory.ru/data-scientist){:target="_blank"}__.
 
 ## Projects
 
