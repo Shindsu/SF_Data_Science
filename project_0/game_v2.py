@@ -19,7 +19,7 @@ def random_predict(number: int = 1) -> int:
     predict_number = np.random.randint(min_number, 101) # предполагаемое число
     while True:
         count += 1
-        if number == min_number: # проверяем не равно ли загаданное число минимальному, т.к. оно будет изметься
+        if number == min_number: # проверяем не равно ли загаданное число минимальному, т.к. минимальное будет изметься
             break # выход из цикла если угадали
         if predict_number > number > min_number:
             min_number += 1
